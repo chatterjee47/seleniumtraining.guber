@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-13T12:50:05 IST" name="Default suite" finished-at="2022-06-13T12:50:43 IST" duration-ms="37651">
+    <groups>
+    </groups>
+    <test started-at="2022-06-13T12:50:05 IST" name="Default test" finished-at="2022-06-13T12:50:43 IST" duration-ms="37651">
+      <class name="TestCase.Selection_Dropdown">
+        <test-method is-config="true" signature="OpeningBrwoser()[pri:0, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:05 IST" name="OpeningBrwoser" finished-at="2022-06-13T12:50:14 IST" duration-ms="8071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrwoser -->
+        <test-method signature="Choose_any_value_from_the_dropdown_list()[pri:0, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:14 IST" name="Choose_any_value_from_the_dropdown_list" finished-at="2022-06-13T12:50:18 IST" duration-ms="4936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Choose_any_value_from_the_dropdown_list -->
+        <test-method is-config="true" signature="OpeningBrwoser()[pri:0, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:18 IST" name="OpeningBrwoser" finished-at="2022-06-13T12:50:23 IST" duration-ms="4053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrwoser -->
+        <test-method signature="PeopleNameWithOnlyBlueColor()[pri:1, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:23 IST" name="PeopleNameWithOnlyBlueColor" finished-at="2022-06-13T12:50:25 IST" duration-ms="2856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PeopleNameWithOnlyBlueColor -->
+        <test-method is-config="true" signature="OpeningBrwoser()[pri:0, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:25 IST" name="OpeningBrwoser" finished-at="2022-06-13T12:50:29 IST" duration-ms="3507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrwoser -->
+        <test-method signature="returns_integer_after_division_by_2()[pri:2, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:29 IST" name="returns_integer_after_division_by_2" finished-at="2022-06-13T12:50:31 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returns_integer_after_division_by_2 -->
+        <test-method is-config="true" signature="OpeningBrwoser()[pri:0, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:31 IST" name="OpeningBrwoser" finished-at="2022-06-13T12:50:35 IST" duration-ms="3628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrwoser -->
+        <test-method signature="Create_list_of_peoplenames_with_Blue_text_in_the_Color_column()[pri:3, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:35 IST" name="Create_list_of_peoplenames_with_Blue_text_in_the_Color_column" finished-at="2022-06-13T12:50:37 IST" duration-ms="2539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_list_of_peoplenames_with_Blue_text_in_the_Color_column -->
+        <test-method is-config="true" signature="OpeningBrwoser()[pri:0, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:37 IST" name="OpeningBrwoser" finished-at="2022-06-13T12:50:41 IST" duration-ms="3474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrwoser -->
+        <test-method signature="CombinationOf2AND4()[pri:4, instance:TestCase.Selection_Dropdown@3e11f9e9]" started-at="2022-06-13T12:50:41 IST" name="CombinationOf2AND4" finished-at="2022-06-13T12:50:43 IST" duration-ms="2382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CombinationOf2AND4 -->
+      </class> <!-- TestCase.Selection_Dropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
